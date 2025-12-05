@@ -1,0 +1,6 @@
+Expresion: 2 3 +; Resultado: 5
+Expresion: 2 3 4 + *; Resultado: 14
+Expresion: 2 4 + 7 * 3 9 5 * +; Resultado: 0
+Expresion: 10 5 2 * +; Resultado: 20
+Expresion: 10 5 + 2 *; Resultado: 30
+Expresion: 5 2 + 2 ^; Resultado: 0
