@@ -4,27 +4,27 @@
 -----------------------------------------------------------------------------------------------------
 📚 Actividades de Desempeño (ADAS)
 -----------------------------------------------------------------------------------------------------
-ADA01 Pilas 🥞
+[ADA01](ADA01) Pilas 🥞
 
 Conversión y evaluación de expresiones infijas a postfijas.
 -----------------------------------------------------------------------------------------------------
-ADA02 Colas 🚶‍♀️➡️🚶‍♂️
+[ADA02](ADA2) Colas 🚶‍♀️➡️🚶‍♂️
 
 Simulación de un programa con clientes sobre la función de las colas en este tipo de problemas.
 -----------------------------------------------------------------------------------------------------
-ADA03 Listas (Doblemente Ligadas) 🔗
+[ADA03](ADA03) Listas (Doblemente Ligadas) 🔗
 
 Manipulación y búsqueda de información por medio de listas doblemente ligadas.
 -----------------------------------------------------------------------------------------------------
-ADA04 Árboles Binarios de Búsqueda 🌳🔍
+[ADA04](ADA04_E03) Árboles Binarios de Búsqueda 🌳🔍
 
 Manipulación de información por medio de árboles de búsqueda.
 -----------------------------------------------------------------------------------------------------
-ADA05 Algoritmo de Ordenamiento Cocktail Sort 🍸🔄
+[ADA05](ADA05_E03) Algoritmo de Ordenamiento Cocktail Sort 🍸🔄
 
 Investigación y presentación del algoritmo de ordenamiento "cocktail sort".
 -----------------------------------------------------------------------------------------------------
-ADA07 Tablas Hash 🔑📦
+[ADA07](ADA07_E03) Tablas Hash 🔑📦
 
 Manipulación y búsqueda de información por medio de la función hash.
 -----------------------------------------------------------------------------------------------------
