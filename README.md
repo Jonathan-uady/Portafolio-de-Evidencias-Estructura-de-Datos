@@ -3,6 +3,7 @@
 Éste es un portafolio que incluye las actividades trabajadas durante el curso de Estructura de Datos.
 -----------------------------------------------------------------------------------------------------
 📚 Actividades de Desempeño (ADAS)
+-----------------------------------------------------------------------------------------------------
 ADA01 Pilas 🥞
 
 Conversión y evaluación de expresiones infijas a postfijas.
