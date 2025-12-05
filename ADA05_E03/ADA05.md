@@ -1,0 +1,1 @@
+En ésta actividad nos tocó exponer sobre uno de los algoritmos de ordenamiento, en éste caso nos tocó exponer sobre el cocktail sort, aquí está elaborada la presentación con información sobre dicho algoritmo y sus caracterísitcas de empleamiento
