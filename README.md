@@ -1,22 +1,29 @@
-# Portafolio-de-Evidencias-Estructura-de-Datos
-Éste es un portafolio que incluye las actividades trabajadas durante el curso de Estructura de Datos
+-----------------------------------------------------------------------------------------------------
+✨ Portafolio de Evidencias: Estructura de Datos
+Éste es un portafolio que incluye las actividades trabajadas durante el curso de Estructura de Datos.
+-----------------------------------------------------------------------------------------------------
+📚 Actividades de Desempeño (ADAS)
+ADA01 Pilas 🥞
 
-ADAS:
+Conversión y evaluación de expresiones infijas a postfijas.
+-----------------------------------------------------------------------------------------------------
+ADA02 Colas 🚶‍♀️➡️🚶‍♂️
 
-[ADA01](ADA01) PILAS
-Conversión y evaluación de expresiones infijas a postfijas
+Simulación de un programa con clientes sobre la función de las colas en este tipo de problemas.
+-----------------------------------------------------------------------------------------------------
+ADA03 Listas (Doblemente Ligadas) 🔗
 
-[ADA02](ADA2) COLAS
-Simulación de un pgrograma con clientes sobre la función de las colas en éste tipo de problemas
+Manipulación y búsqueda de información por medio de listas doblemente ligadas.
+-----------------------------------------------------------------------------------------------------
+ADA04 Árboles Binarios de Búsqueda 🌳🔍
 
-[ADA03](ADA03) LISTAS (DOBLEMENTE LIGADAS)
-Manipulación y busqueda de información por medio de listas doblemente ligadas
+Manipulación de información por medio de árboles de búsqueda.
+-----------------------------------------------------------------------------------------------------
+ADA05 Algoritmo de Ordenamiento Cocktail Sort 🍸🔄
 
-[ADA04](ADA04_E03) ARBOLES BINARIOS DE BUSQUEDA
-Manipulación de información por medio de árboles de busqueda
+Investigación y presentación del algoritmo de ordenamiento "cocktail sort".
+-----------------------------------------------------------------------------------------------------
+ADA07 Tablas Hash 🔑📦
 
-[ADA05](ADA05_E03) ALGORITMO DE ORDENAMIENTO COCKTAIL SORT
-Investigación y presentación del algoritmo de ordenamiento "cocktail sort"
-
-[ADA07](ADA07_E03) TABLAS HASH
-Manipulación y busqueda de información por medio de la función *hash*
+Manipulación y búsqueda de información por medio de la función hash.
+-----------------------------------------------------------------------------------------------------
